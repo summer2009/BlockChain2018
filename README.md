@@ -4,5 +4,5 @@
 
 #use golang， Beego frame，and Bold DB to build a light Blog easy.
 
-#
+#The most important things to develop a blog system is storage file and index them .  
 
