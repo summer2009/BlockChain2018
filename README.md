@@ -4,7 +4,7 @@
 
 [比特币](http://www.bitcoin.org)
 
-[以太坊](http://www.efans.org)
+[以太坊](http://www.ethfans.org)
 
 
 
