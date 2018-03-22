@@ -31,4 +31,4 @@
 
 
 
-##捐赠比特币：![捐赠](denote_btc.jpg)
+**捐赠比特币：![捐赠](denote_btc.jpg)
