@@ -30,7 +30,7 @@
 
 -[以太坊](http://www.ethfans.org)
 
-**区块链2.0 + **
+**区块链2.0+**
 
 -[EOS](http://www.eos.org)
 
