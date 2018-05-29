@@ -34,6 +34,8 @@
 
 -[EOS](http://www.eos.org)
 
+-[IPFS](ipfs.io)(hosts:217.182.195.23 ipfs.io)
+
 -----
 
 
