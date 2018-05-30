@@ -102,6 +102,10 @@ QmNbETCMTCden6patJJs3nxAxWrLWPeaHk72jckUawu3JQ
 
 ![下载](/ipfs/img/ipfs_miner06.jpg)
 
+![下载](/ipfs/img/ipfs_miner07.jpg)
+
+![下载](/ipfs/img/ipfs_miner08.jpg)
+
 简要说明：只有存储矿工可以竞争新区块的打包权，从而获取代币奖励，竞争的依据是提供的存储量占全网存储量的比重。
 
 好了，都说一图抵千文，相信通过三张图大家已经比较清楚Filecoin挖矿的原理了，下次我们将就硬件配置和大家做一下探讨。
