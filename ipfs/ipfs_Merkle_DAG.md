@@ -1,5 +1,5 @@
 
-![](/ipfs/img/ipfs_merkle01.bmp)
+![](/ipfs/img/ipfs_merkle_01.bmp)
 
 IPFS: Merkle DAG 数据结构
 IronyechoIronyecho
@@ -13,7 +13,7 @@ Merkle DAG是IPFS系统的核心概念之一，当然Merkle DAG并不是IPFS团�
 
 Merkle DAG的全称是 Merkle directed acyclic graph（默克有向无环图）。它是在Merkle tree基础上构建的，Merkle tree是由美国计算机学家merkle于1979年申请的专利。Merkle DAG跟Merkle tree很相似，但不完全一样，比如：Merkle DAG不需要进行树的平衡操作，非叶子节点允许包含数据等。
 
-![](/ipfs/img/ipfs_merkle02.bmp)
+![](/ipfs/img/ipfs_merkle_02.bmp)
 
 Merkle DAG
 
@@ -55,7 +55,7 @@ IPFS让应用可以完全控制对象的数据字段，也就是说应用可以�
 
 一张图片，这张图片是小编在一个叫做 First 的地方拍摄的，好漂亮有没有。
 
-![](/ipfs/img/ipfs_merkle03.bmp)
+![](/ipfs/img/ipfs_merkle_03.bmp)
 
 文件名：first.JPG  文件大小：3646K
 
@@ -114,7 +114,7 @@ QmUs5kkcutfbHzCKczAXcXri9cmfCXSincN5WTp8ard1fR 64097
 当执行 ipfs add 的时候，文件first.JPG的数据被分成了一个个大小均等的block并且构造一个Merkle DAG把文件数据片组织起来。
 
 
-![](/ipfs/img/ipfs_merkle04.bmp)
+![](/ipfs/img/ipfs_merkle_04.bmp)
 
 可以使用IPFS提供的命令来查看数据块（block）的信息，数据块block下面还允许链接子数据块（sub-block，本文的例子中没有涉及）。
 
