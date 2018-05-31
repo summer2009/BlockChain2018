@@ -6,7 +6,13 @@
 
 3、FILECOIN投资决策
 
-精品链接：
+
+精品站点：
+
+[ipfser](http://ipfser.org)
+
+
+精品文章链接：
 
 [ipfs上部署静态网站](https://www.jianshu.com/p/5d72b8fee29e)
 
@@ -15,3 +21,7 @@
 [filecoin硬盘挖矿是什么币?](http://www.tucaod.com/2084.html)
 
 [IPFS-FIL挖矿收益究竟有多高](https://mp.weixin.qq.com/s/YEbHBiT5-0LmRIESWKqsTQ)
+
+[IPFS: Merkle DAG 数据结构](http://ipfser.org/2018/01/25/r20/)
+
+
