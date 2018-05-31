@@ -14,6 +14,8 @@
 
 精品文章链接：
 
+[详解IPFS的本质、技术架构以及应用](https://www.daijiale.cn/personal-essay/daijiale-ipfs.html)
+
 [ipfs上部署静态网站](https://www.jianshu.com/p/5d72b8fee29e)
 
 [【IPFS + 区块链 系列】 入门篇 - IPFS+IPNS+个人博客搭建](https://blog.csdn.net/liyuechun520/article/details/78599374)
