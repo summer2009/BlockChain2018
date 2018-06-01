@@ -1,13 +1,22 @@
-### ipfs学习目的：
+### ipfs学习路线：
 
 1、掌握IPFS基本情况
+   
+   [go-ipfs使用]()
+   
+   [浏览器插件使用]()
+   
+   [ipfs原理]()
+   
+   [DAG数据结构]()
+   
+2、filecoin概况和挖矿
+   
+3、投资分析
 
-2、掌握FILECOIN挖矿
-
-3、FILECOIN投资决策
 
 
-精品站点：
+### 精品站点：
 
 [ipfser](http://ipfser.org)
 
