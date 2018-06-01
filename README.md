@@ -18,23 +18,23 @@
 
 ----
 
-**区块链基础**
++ 区块链基础
 
-  -[区块链知识卡](bc_card.md)
+    + [区块链知识卡](bc_card.md)
 
-**区块链1.0**
++ 区块链1.0
 
--[比特币](http://www.bitcoin.org)
+    + [比特币](http://www.bitcoin.org)
     
-**区块链2.0**
++ 区块链2.0
 
--[以太坊](http://www.ethfans.org)
+    + [以太坊](http://www.ethfans.org)
 
-**区块链2.0+**
++ 区块链2.0+
 
--[EOS](http://www.eos.org)
+    + [EOS](http://www.eos.org)
 
--[IPFS](http://ipfs.io)(hosts:217.182.195.23 ipfs.io)
+    + [IPFS](http://ipfs.io)(hosts:217.182.195.23 ipfs.io)
 
 -----
 
