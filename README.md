@@ -34,7 +34,7 @@
 
     + [EOS](http://www.eos.org)
 
-    + [IPFS](http://ipfs.io)(hosts:217.182.195.23 ipfs.io)
+    + [IPFS](https://summer2009.github.io/BlockChain2018/ipfs/readme.md)(http://ipfs.io)(hosts:217.182.195.23 ipfs.io)
 
 -----
 
