@@ -1,3 +1,4 @@
+
 * ipfs学习路线：
 
    * 掌握IPFS基本情况
@@ -17,6 +18,8 @@
 
 
 * 精品站点：
+
+   + [ipfs官网](http://ipfs.io)(科学上网hosts文件:217.182.195.23 ipfs.io)
 
    + [ipfser](http://ipfser.org)
 
