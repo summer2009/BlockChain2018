@@ -42,4 +42,5 @@
    
    + [IPFS搭建分布式文件系统 - 访问控制](https://www.cnblogs.com/feiqihang/p/6101350.html)
 
+   + [跟你想的不一样，明星区块链项目 FileCoin 难逃失败命运](http://36kr.com/p/5127818.html)
 
