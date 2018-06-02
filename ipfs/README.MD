@@ -37,5 +37,7 @@
    + [IPFS-FIL挖矿收益究竟有多高](https://mp.weixin.qq.com/s/YEbHBiT5-0LmRIESWKqsTQ)
 
    + [IPFS: Merkle DAG 数据结构](http://ipfser.org/2018/01/25/r20/)
+   
+   + [IPFS搭建分布式文件系统 - 访问控制](https://www.cnblogs.com/feiqihang/p/6101350.html)
 
 
