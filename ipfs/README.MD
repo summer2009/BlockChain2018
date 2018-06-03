@@ -26,6 +26,16 @@
 
 * 精品文章链接：
 
+   + [IPFS 入门笔记](http://ipfser.org/2017/12/06/a4/)
+   
+   + [【IPFS】Filecoin: 一个去中心式存储网络（第一章）](http://ipfser.org/2017/12/07/a1/)
+   
+   + [【IPFS】Filecoin: 一个去中心式存储网络（第二章）](http://ipfser.org/2017/12/07/a2/)
+   
+   + [【IPFS】Filecoin: 一个去中心式存储网络（第三章）](http://ipfser.org/2017/12/07/a3/)
+   
+   + [【IPFS】Filecoin: 一个去中心式存储网络（第四章）](http://ipfser.org/2017/12/09/a5/)
+
    + [详解IPFS的本质、技术架构以及应用](https://www.daijiale.cn/personal-essay/daijiale-ipfs.html)
 
    + [ipfs上部署静态网站](https://www.jianshu.com/p/5d72b8fee29e)
