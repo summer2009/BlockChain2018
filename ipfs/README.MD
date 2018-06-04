@@ -3,6 +3,8 @@
 
    * 掌握IPFS基本情况
    
+      + [go-ipfs安装](ipfs_install.md)
+   
       + [go-ipfs使用]()
    
       + [ipfs浏览器插件使用]()
