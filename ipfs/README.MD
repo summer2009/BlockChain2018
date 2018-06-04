@@ -12,6 +12,9 @@
       + [ipfs原理]()
    
       + [DAG数据结构]()
+      
+      + [用树莓派玩ipfs](ipfsOnRaspberryPi.md
+)
    
    * filecoin概况和挖矿
    
