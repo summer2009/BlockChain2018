@@ -6,6 +6,11 @@
       + [go-ipfs安装](ipfs_install.md)
    
       + [go-ipfs使用]()
+          + [快速入门](https://ipfs.io/docs/getting-started/)      
+        
+          + [基本命令](https://ipfs.io/docs/commands/)
+          
+          + [用ipfs建立你的静态blog](https://blog.csdn.net/liyuechun520/article/details/78599374)
    
       + [ipfs浏览器插件使用]()
    
