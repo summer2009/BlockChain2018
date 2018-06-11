@@ -37,6 +37,8 @@
     + [EOS](http://www.eos.org)
 
     + [IPFS](/ipfs/README.MD)
+    
+    + [IOST](/iost/README.MD)
 
 -----
 
