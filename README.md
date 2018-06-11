@@ -40,7 +40,7 @@
 
     + [IPFS](/ipfs/README.MD)
     
-    + [IOST](/iost/README.MD)
+    + [IOST](/iost/readme.md)
 
 -----
 
