@@ -5,3 +5,7 @@
   + [800字读懂IOST](https://wallstreetcn.com/articles/3323801)
   
   + [项目评级——IOST](http://baijiahao.baidu.com/s?id=1600246469535109454&wfr=spider&for=pc)
+  
++ 进展
+
+  + [【三言采访】IOST创始人钟家鸣：我们希望比ETH做得更好](https://www.sohu.com/a/226973029_100117963)
