@@ -34,7 +34,7 @@
 
     + [以太坊](http://www.ethfans.org)
     
-    + [RSK](https://cn.rsk.co/)
+    + [RSK](/rsk/readme.md)
 
 + 区块链2.0+
 
