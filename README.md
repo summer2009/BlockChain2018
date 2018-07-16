@@ -24,7 +24,9 @@
 
     + [区块链知识卡](bc_card.md)
 
-    + [a cool slide show of BTC&blockchain](https://bitcoin.aeonbits.org/#/) ![二维码链接](/img/bt-slide.png)
+    + [a cool slide show of BTC&blockchain](https://bitcoin.aeonbits.org/#/)
+    
+                    ![二维码链接](/img/bt-slide.png)
     
     + [BlockChain技术与应用初探（扫盲篇）](https://www.daijiale.cn/%e5%8c%ba%e5%9d%97%e9%93%be/%e3%80%90%e5%8c%ba%e5%9d%97%e9%93%be%e3%80%91%e5%8c%ba%e5%9d%97%e9%93%be%e6%8a%80%e6%9c%af%e4%b8%8e%e5%ba%94%e7%94%a8%e5%88%9d%e6%8e%a2%ef%bc%88%e6%89%ab%e7%9b%b2%e7%af%87%ef%bc%89.html)
 
