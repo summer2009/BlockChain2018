@@ -52,7 +52,7 @@
 
 -----
 
-[最佳区块链原理go语言实现学习资料](https://github.com/Jeiwan/blockchain_go)
++ [最佳区块链原理go语言实现学习资料](https://github.com/Jeiwan/blockchain_go)
 
 + 投资
 
