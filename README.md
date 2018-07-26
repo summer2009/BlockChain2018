@@ -36,6 +36,8 @@
 
     + [以太坊](http://www.ethfans.org)
     
+        + [精通以太坊](https://github.com/inoutcode/ethereum_book)
+    
     + [RSK](/rsk/readme.md)
 
 + 区块链2.0+
